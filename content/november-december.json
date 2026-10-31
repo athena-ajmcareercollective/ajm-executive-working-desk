@@ -1,0 +1,77 @@
+{
+  "reviewed": "2026-10-30",
+  "mode": "manual-reconciliation",
+  "design": "Original AJM Executive Working Desk design approved; no visual redesign",
+  "focus": [
+    {
+      "title": "Client preparation",
+      "status": "Needs Correction",
+      "latest": "Nov 2 and 9 client sessions mapped; Jill, Farrah and Jessica exercises are not yet approved.",
+      "next": "Revise one client-specific exercise, complete creative and L&D QA, then request Athena review.",
+      "owner": "Client Strategy + L&D",
+      "url": "https://docs.google.com/spreadsheets/d/1VAbZO8vWtjKAQMLQ7cajIVWm8gh4Jw5qPxjIl2wbrT8/edit#gid=1999472855"
+    },
+    {
+      "title": "Revenue and relationships",
+      "status": "Needs Verification",
+      "latest": "Jill payment due November 6; Jennifer funding response unverified.",
+      "next": "Finance reconcile receipts and identify one useful follow-up.",
+      "owner": "Finance + Growth",
+      "url": "https://docs.google.com/spreadsheets/d/1bur0x2PnfR47X606IWqji8l5TSBEWydsQjMt02WjWW0/edit#gid=358755496"
+    },
+    {
+      "title": "Editorial introduction",
+      "status": "Awaiting Approval",
+      "latest": "November 2, 4 and 6 dates are proposed, not confirmed or scheduled.",
+      "next": "Review one full creative package, exact links, and native previews before publication.",
+      "owner": "Creative + Growth",
+      "url": "https://docs.google.com/spreadsheets/d/1b8N76h6wNnlBFRvT51nPiliQbZv6QyiL3F-wxGa465A/edit"
+    }
+  ],
+  "november": [
+    [
+      "Client experience",
+      "In Progress"
+    ],
+    [
+      "Creative and brand consistency",
+      "Needs Review"
+    ],
+    [
+      "Operating system reliability",
+      "In Progress"
+    ],
+    [
+      "Services and proposals",
+      "Next"
+    ],
+    [
+      "Products and programming",
+      "In Progress"
+    ]
+  ],
+  "december": [
+    [
+      "Client continuity and revenue",
+      "Planned"
+    ],
+    [
+      "Editorial and recruiting priorities",
+      "Planned"
+    ],
+    [
+      "Q4 learning pilot",
+      "Planned, subject to approval"
+    ],
+    [
+      "First workbook usability and buyer test",
+      "Planned"
+    ],
+    [
+      "2027 strategy and operating standards",
+      "Planned"
+    ]
+  ],
+  "monthlySource": "https://docs.google.com/spreadsheets/d/1VAbZO8vWtjKAQMLQ7cajIVWm8gh4Jw5qPxjIl2wbrT8/edit#gid=1999472855",
+  "notes": "This is a source-linked summary, not live data or an authorization to publish, contact clients, or mark tasks complete."
+}
